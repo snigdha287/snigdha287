@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web deveolpment
 - 💞️ I’m looking to collaborate on any projects related to java and web development
 - 📫 How to reach me Instagram:@snigdha287
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snigdha287&theme=monokai)
 <!---
 snigdha287/snigdha287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
